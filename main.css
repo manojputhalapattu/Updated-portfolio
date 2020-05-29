@@ -1,0 +1,116 @@
+.style
+{
+    background-color: #abf0e9;
+    position: relative;
+    padding: 100px;
+    background-repeat: no-repeat;
+  background-size: auto;
+  
+    
+    
+    
+}
+body{
+    
+    text-align: center;
+    margin:0;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif; 
+    
+    font-family: 'Dancing Script', cursive;
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+  background-size: auto;
+ 
+
+}
+h1{
+   font-size: 60px;
+    margin-top: 50px auto 0 auto;
+    color: #66BFBF;
+    line-height: 2;
+}
+h2{
+    font-family: 'Racing Sans One', cursive;
+    color:#c176ff;
+    font-weight: normal;
+}
+.box1{
+    margin-top: 10px;
+    
+}
+.box2{
+    background-color: lightblue;
+    padding: 50px 0 20px;
+   
+}
+.upper-cloud{
+    position: absolute;
+    top: 50px;
+    right: 350px;
+
+
+}
+.bottom-cloud{
+    position: absolute;
+    left: 350px;
+    bottom: 400px;
+    background-repeat: no-repeat;
+  background-size: auto;
+ 
+}
+.computer-img{
+    width: 25%;
+    height:25%;
+    float: inline-end;
+
+}
+hr{
+    border-color:#ff926b;
+    border-width: 8px;
+     border-style:dotted none none;
+    
+   
+     width: 25%;
+ } 
+ .btn {
+	box-shadow: 0px 0px 0px 0px #276873;
+	background:linear-gradient(to bottom, #599bb3 5%, #408c99 100%);
+	background-color:#599bb3;
+	border-radius:22px;
+	border:1px solid #29668f;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Times New Roman;
+	font-size:17px;
+	font-weight:bold;
+	font-style:italic;
+	padding:12px 15px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #12b5eb;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #408c99 5%, #599bb3 100%);
+	background-color:#408c99;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+a{
+    color:#63b7af;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+a:hover{
+    color: whitesmoke;
+}
+.copyright{
+    color:whitesmoke;
+
+}
+.mount{
+   height: 50%;
+   width: 60%;
+}
